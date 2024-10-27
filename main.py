@@ -4,7 +4,7 @@ import os
 import random
 import requests
 API_TOKEN = "<api_token>"
-bot = telebot.TeleBot('7976398571:AAF1maIY7bVLPR4Frct9YQSM7a8sqroAdUg')
+bot = telebot.TeleBot('<token>')
 facts = ['Собрать мусор на пляже или в парке и правильно его утилизировать.',
           'Сделать компост из органических отходов.', 'Убрать дом и правильно все утилизировать.',
           'Посадить растение на балконе или во дворе.',
